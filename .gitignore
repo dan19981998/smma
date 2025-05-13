@@ -1,0 +1,9 @@
+# WordPress core and config
+wp-config.php
+# Uploads, cache, backups
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backups/
+# OS / IDE
+.vscode/
+*.log
